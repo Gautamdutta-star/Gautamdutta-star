@@ -1,11 +1,8 @@
 <div align="center">
 
-<img src="gautam-avatar.png" width="800" alt="Gautam Kumar Dutta">
+<img src="./gautam-avatar.png" width="100%" alt="Gautam Kumar Dutta">
 
 </div>
-
-
-# 👋 Hi, I'm Gautam Kumar Dutta
 
 ### 💻 B.Tech Computer Science & Engineering Student | Web Developer | Programmer
 
