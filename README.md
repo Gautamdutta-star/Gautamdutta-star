@@ -83,21 +83,22 @@ A responsive weather prediction web application that allows users to search for 
 
 ---
 
-## 🏫 KIIT Campus Management System
+## 🎓 Student Registration & Management System
 
-A web-based campus management system designed to simplify and manage different campus-related activities and services.
+A web-based **Student Registration and Management System** designed to simplify student registration, maintain student records, and manage student information efficiently.
 
 ### Features:
 
-- 👨‍🎓 Student information management
-- 🏫 Campus-related service management
-- 📋 Manage campus activities and information
-- 🔍 Easy search and access to campus information
-- 👥 User-friendly management interface
-- 📊 Organized campus data
-- ⚡ Efficient and responsive system
+- 📝 Student registration and enrollment
+- 👤 Add and manage student profiles
+- 🔄 Update and edit student information
+- 🗑️ Delete student records
+- 🔍 Search and view student details
+- 📋 Organized student records management
+- 💾 Database-based student data storage
+- 📱 Simple and responsive user interface
 
-**Tech Stack:**  React, JavaScript, HTML, CSS
+**Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL
 
 ---
 
