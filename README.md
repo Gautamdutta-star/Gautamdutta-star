@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./gautam-avatar.png" width="100%" alt="Gautam Kumar Dutta">
+<img src="./gautam-avatar.png" width="75%" alt="Gautam Kumar Dutta">
 
 </div>
 
@@ -140,6 +140,11 @@ You can explore my projects, repositories, contributions, and coding journey on 
   <a href="https://github.com/Gautamdutta-star">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
+
+  <a href="https://github.com/Gautamdutta-star">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white">
+</a>
+<img src="https://komarev.com/ghpvc/?username=Gautamdutta-star&label=VISITORS&color=blue&style=flat-square" alt="Profile Views">
 </p>
 
 ---
