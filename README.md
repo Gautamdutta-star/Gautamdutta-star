@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./gautam-avatar.png" width="800" alt="Gautam Kumar Dutta">
+<img src="gautam-avatar.png" width="800" alt="Gautam Kumar Dutta">
 
 </div>
 
