@@ -13,7 +13,7 @@ I enjoy turning ideas into practical projects and continuously improving my deve
 - 🎓 B.Tech in Computer Science & Engineering
 - 💻 Interested in Web Development & Software Development
 - 🚀 Currently building and deploying real-world projects
-- 🐍 Comfortable with Python and C
+- 🐍 Comfortable with Python and Javascript
 - 🌐 Interested in Frontend & Backend Development
 - ☁️ Exploring Cloud Computing and Deployment
 - 🔐 Learning Cybersecurity & modern technologies
