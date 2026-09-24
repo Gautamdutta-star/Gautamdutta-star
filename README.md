@@ -83,22 +83,21 @@ A responsive weather prediction web application that allows users to search for 
 
 ---
 
-### 🗺️ KIIT Campus Navigation System
+## 🏫 KIIT Campus Management System
 
-A campus navigation project using graph algorithms to find routes between different locations.
+A web-based campus management system designed to simplify and manage different campus-related activities and services.
 
 ### Features:
 
-- 📍 Campus location navigation
-- 🗺️ Interactive campus map
-- 🔍 Location search
-- 🧭 Route finding between locations
-- ⚡ Multiple path-finding algorithms
-- 📌 Interactive map markers
-- 🚀 Efficient route calculation
-**Algorithms:** BFS, DFS, UCS, Greedy Search, A*
+- 👨‍🎓 Student information management
+- 🏫 Campus-related service management
+- 📋 Manage campus activities and information
+- 🔍 Easy search and access to campus information
+- 👥 User-friendly management interface
+- 📊 Organized campus data
+- ⚡ Efficient and responsive system
 
-**Tech Stack:** React, JavaScript, Leaflet
+**Tech Stack:**  React, JavaScript, HTML, CSS
 
 ---
 
