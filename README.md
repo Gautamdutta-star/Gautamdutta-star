@@ -129,12 +129,16 @@ A platform designed to connect people based on their skills, talents, and opport
 
 ---
 
-# 📊 GitHub Activity
+---
+
+## 📈 GitHub
+
+You can explore my projects, repositories, contributions, and coding journey on my GitHub profile.
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gautamdutta-star&theme=tokyo-night&hide_border=true" />
-
+  <a href="https://github.com/Gautamdutta-star">
+    <img src="https://img.shields.io/badge/View%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
