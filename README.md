@@ -51,6 +51,17 @@ I enjoy turning ideas into practical projects and continuously improving my deve
 
 A full-stack project and task management application designed to manage projects, tasks and users efficiently.
 
+
+### Features:
+
+- 📋 Create and manage projects
+- ✅ Create, update and track tasks
+- 👥 User and project management
+- 🔄 Task status management
+- 🗄️ Database integration
+- 🔐 REST API based backend
+- 📱 Clean and responsive interface
+
 **Tech Stack:** Python, FastAPI, SQL, HTML, CSS, JavaScript
 
 ---
@@ -76,6 +87,15 @@ A responsive weather prediction web application that allows users to search for 
 
 A campus navigation project using graph algorithms to find routes between different locations.
 
+### Features:
+
+- 📍 Campus location navigation
+- 🗺️ Interactive campus map
+- 🔍 Location search
+- 🧭 Route finding between locations
+- ⚡ Multiple path-finding algorithms
+- 📌 Interactive map markers
+- 🚀 Efficient route calculation
 **Algorithms:** BFS, DFS, UCS, Greedy Search, A*
 
 **Tech Stack:** React, JavaScript, Leaflet
