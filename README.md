@@ -1,3 +1,10 @@
+<div align="center">
+
+<img src="./gautam-avatar.png" width="800" alt="Gautam Kumar Dutta">
+
+</div>
+
+
 # 👋 Hi, I'm Gautam Kumar Dutta
 
 ### 💻 B.Tech Computer Science & Engineering Student | Web Developer | Programmer
@@ -83,24 +90,6 @@ A responsive weather prediction web application that allows users to search for 
 
 ---
 
-## 🎓 Student Registration & Management System
-
-A web-based **Student Registration and Management System** designed to simplify student registration, maintain student records, and manage student information efficiently.
-
-### Features:
-
-- 📝 Student registration and enrollment
-- 👤 Add and manage student profiles
-- 🔄 Update and edit student information
-- 🗑️ Delete student records
-- 🔍 Search and view student details
-- 📋 Organized student records management
-- 💾 Database-based student data storage
-- 📱 Simple and responsive user interface
-
-**Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL
-
----
 
 ## 🤝 HunarHub
 
