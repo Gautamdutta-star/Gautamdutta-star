@@ -25,7 +25,7 @@ I enjoy turning ideas into practical projects and continuously improving my deve
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,python,java" />
+  <img src="https://skillicons.dev/icons?i=python,java" />
 </p>
 
 ### Web Development
